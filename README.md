@@ -24,13 +24,21 @@ The analysis is based on data extracted from:
 The datasets include comprehensive information on film performance metrics such as box office revenues (domestic and worldwide), production budgets, film genres, ratings, and lengths. This varied data provides a solid foundation for understanding the dynamics of film success across different market segments.
 
 ## Visualizations:
-ROI by Production Budget: Illustrates the relationship between production budgets and return on investment, highlighting the profitability of low-budget films.
+#### ROI by Production Budget: Illustrates the relationship between production budgets and return on investment, highlighting the profitability of low-budget films.
 
-Global Box Office Performance: Shows the comparative analysis of domestic versus international gross revenues, underlining the importance of global market appeal.
+![image](https://github.com/gregorymikuro/Project-Box-Office-Insight/assets/155205164/0636644d-3125-4ca3-a621-71796480cd75)
 
-Optimal Film Length for Audience Ratings: Depicts the correlation between film length and audience ratings, suggesting preferences for shorter films.
+#### Global Box Office Performance: Shows the comparative analysis of domestic versus international gross revenues, underlining the importance of global market appeal.
 
-Genre Popularity and Success: Analyzes the performance of various film genres, identifying documentaries, comedies, and dramas as particularly successful categories.
+![image](https://github.com/gregorymikuro/Project-Box-Office-Insight/assets/155205164/e519ae3e-a988-45fb-8a90-65ac338d02c6)
+
+#### Optimal Film Length for Audience Ratings: Depicts the correlation between film length and audience ratings, suggesting preferences for shorter films.
+
+![image](https://github.com/gregorymikuro/Project-Box-Office-Insight/assets/155205164/108aab74-ef16-4114-a23c-08e9c705ca24)
+
+#### Genre Popularity and Success: Analyzes the performance of various film genres, identifying documentaries, comedies, and dramas as particularly successful categories.
+
+![image](https://github.com/gregorymikuro/Project-Box-Office-Insight/assets/155205164/c9428d2c-3cdc-491d-92d8-0482d2703525)
 
 ## Conclusion
 Summary of Conclusions:
